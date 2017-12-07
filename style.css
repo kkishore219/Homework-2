@@ -17,7 +17,7 @@ body {
 .navbar-name {
 	font-size: 24pt;
 	font-weight: bold;
-	color: black;
+	color: MidnightBlue;
 	border: 0.5px solid DarkSteelBlue;
 	padding: 5px 15px 8px 15px;
 	background-color: SteelBlue;
@@ -26,14 +26,14 @@ body {
 .about-me {
 	font-size: 20pt;
 	font-weight: bold;
-	color: black;
+	color: MidnightBlue;
 	
 }
 
 .connect-me {
 	font-size: 12pt;
 	font-weight: bold;
-	color: black;
+	color: MidnightBlue;
 }
 
 .row {
@@ -82,10 +82,11 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  color: black;
+  color: MidnightBlue;
   background-color: SteelBlue;
   text-align: center;
   padding: 15px;
   margin: 15px 100px;
 
 }
+
